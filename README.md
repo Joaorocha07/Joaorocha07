@@ -5,8 +5,8 @@ Olá este é o meu perfil no GitHub👋
 
 <div>
   <a href="https://github.com/Joaorocha07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaorocha07&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaorocha07&layout=compact&langs_count=16&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaorocha07&show_icons=true&theme=radical&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaorocha07&layout=compact&langs_count=16&theme=radical" />
 </div>
 
 <div style="display: inline_block"><br>
