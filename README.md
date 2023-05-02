@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?           font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=e7f216&center=true&vCenter=true&width=435&lines=Hi!+My+name+is+João!;Welcome." alt="Typing SVG" /></a>
+</div>
+<div>
+    <a href="https://www.instagram.com/joaorochadev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 Olá este é o meu perfil no GitHub👋
 
 - 🔭 Atualmente estou trabalhando de front-end
