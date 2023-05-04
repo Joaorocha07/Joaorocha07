@@ -17,7 +17,7 @@ Olá este é o meu perfil no GitHub👋
 <div>
   <a href="https://github.com/Joaorocha07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaorocha07&show_icons=true&theme=merko&include_all_comits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaorocha07&layout=compact&langs_count=16&theme=merko" />
+  <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaorocha07&layout=compact&langs_count=16&theme=merko" />
 </div>
 
 <div style="display: inline_block"><br>
