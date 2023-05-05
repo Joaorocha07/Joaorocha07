@@ -1,8 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000
-      &color=90B302center=true&vCenter=true&width=435&lines=Hi!+My+name+is+João!;Welcome." alt="Typing SVG" 
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=90B302center=true&vCenter=true&width=435&lines=Hi!+My+name+is+João!;Welcome." alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,13 +13,11 @@ Olá este é o meu perfil no GitHub👋
   <a href="https://github.com/Joaorocha07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaorocha07&show_icons=true&theme=merko&include_all_comits=true&count_private=true"/>
   <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaorocha07&layout=compact&langs_count=16&theme=merko" />
-</div>
+</div><br>
 
 <div>
     <a href="https://www.instagram.com/joaorochadev/" target="_blank"> 
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
-        badge&logo=instagram&logoColor=white" target="_blank"
-      />
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
 </div>
 
