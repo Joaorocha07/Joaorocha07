@@ -33,7 +33,7 @@ Olá este é o meu perfil no GitHub👋
 
 ## Sobre mim
 
-⚡️ Tenho 18 anos, amo informática e programação, e estudo Ciência da Computação na UNITRI.
+⚡️ Tenho 19 anos, amo informática e programação, e estudo Ciência da Computação na UNITRI.
 
 - 🌎 Sou de Uberlândia - Brasil
 - 🎬 Gosto de estudar e assistir séries/filmes
