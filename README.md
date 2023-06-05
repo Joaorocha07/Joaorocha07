@@ -50,3 +50,5 @@ Olá este é o meu perfil no GitHub👋
 - 🎲 Python
 - ⚔️ Programação Competitiva
 - ☕️ Java
+  
+  ![Snake animation](https://github.com/Joaorocha07/Joaorocha07/blob/output/github-contribution-grid-snake.svg)
