@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=João+Victor+Rocha;Desenvolvedor+Front-end+Pleno;React+%7C+Next.js+%7C+TypeScript+%7C+Angular)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=João+Victor+Rocha+Santos;Desenvolvedor+Front-end+Pleno;React+%7C+Next.js+%7C+TypeScript)](https://git.io/typing-svg)
   
   <p>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-rocha-513439196/" target="_blank">
